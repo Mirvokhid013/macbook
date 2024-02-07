@@ -60,7 +60,7 @@ elPriceForm.addEventListener("change", (evt)=>{
         elPriceSpan.textContent = "$3,199";
         elPrice1.style.borderColor = "#cfe7ff";
         elPrice2.style.borderColor = "#cfe7ff";
-        elPrice3.style.borderColor = "#007fff";
-        elPrice4.style.borderColor = "#cfe7ff";
+        elPrice3.style.borderColor = "#cfe7ff";
+        elPrice4.style.borderColor = "#007fff";
     }
 })
